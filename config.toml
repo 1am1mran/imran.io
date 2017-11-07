@@ -57,7 +57,7 @@ highlightjs = true
     weight = 200
     url = "/about/"
 [[menu.main]]
-    name = "coderag"
+    name = "projects"
     identifier = "coderag"
     weight = 300
     url = "/coderag/"
