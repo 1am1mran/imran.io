@@ -22,7 +22,7 @@ enableRobotsTXT = true
 [params]
 author = "Abdul Imran"
 intro = "Front-End Developer"
-description = "Currently a Learner"
+description = "Lives in Hyderabad"
 authorimage = "imran.jpg"
 dateformat = "Jan 2, 2006"
 
