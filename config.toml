@@ -60,4 +60,4 @@ highlightjs = true
     name = "projects"
     identifier = "coderag"
     weight = 300
-    url = "/coderag/"
+    url = "https://warm-citadel-96883.herokuapp.com/index.html"
